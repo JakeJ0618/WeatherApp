@@ -1,0 +1,17 @@
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\bin\Debug\net6.0\WeatherMap.exe
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\bin\Debug\net6.0\WeatherMap.deps.json
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\bin\Debug\net6.0\WeatherMap.runtimeconfig.json
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\bin\Debug\net6.0\WeatherMap.dll
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\bin\Debug\net6.0\WeatherMap.pdb
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\obj\Debug\net6.0\WeatherMap.csproj.AssemblyReference.cache
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\obj\Debug\net6.0\WeatherMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\obj\Debug\net6.0\WeatherMap.AssemblyInfoInputs.cache
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\obj\Debug\net6.0\WeatherMap.AssemblyInfo.cs
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\obj\Debug\net6.0\WeatherMap.csproj.CoreCompileInputs.cache
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\obj\Debug\net6.0\WeatherMap.csproj.CopyComplete
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\obj\Debug\net6.0\WeatherMap.dll
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\obj\Debug\net6.0\refint\WeatherMap.dll
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\obj\Debug\net6.0\WeatherMap.pdb
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\obj\Debug\net6.0\WeatherMap.genruntimeconfig.cache
+C:\Users\matta\Desktop\C# Folder\repos\WeatherMap\WeatherMap\obj\Debug\net6.0\ref\WeatherMap.dll
